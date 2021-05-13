@@ -4,5 +4,5 @@
 
 - 🔭 **I’m currently working on** - Venterr
 - 🌱 **I’m currently learning** - Vue.js
-- 📫 **Discord tag** - `and249#0249`
+- 📫 **Discord tag** - `and249#8358`
 - ⚡ **Fun fact** - My profile seems dead because of my private repos. 💀
