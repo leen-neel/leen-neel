@@ -2,7 +2,6 @@
 
 ## About me
 
-- 🔭 **I’m currently working on** - Venterr
 - 🌱 **I’m currently learning** - Vue.js
 - 📫 **Discord tag** - `and249#0249`
 - 📧 **Email me** - and24903@gmail.com
