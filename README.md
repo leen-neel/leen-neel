@@ -5,4 +5,4 @@
 - 🌱 **I’m currently learning** - Vue.js
 - 📫 **Discord tag** - `and249#0249`
 - 📧 **Email me** - and24903@gmail.com
-- 📔 **My portfolio** - https://and249.netlify.app/
+- 📔 **My portfolio** - https://and249.codes/
