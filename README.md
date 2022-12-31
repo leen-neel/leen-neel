@@ -6,6 +6,8 @@
   </h1>
   
   <h2> I'm Neel! </h2>
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0CSLCA)
 
   <div id="badges">
     <a href="https://linkedin.com/in/and249">
