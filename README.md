@@ -19,3 +19,13 @@
     </a>
   </div>
  </div>
+ 
+ ---
+
+### 👨‍💻 About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭: I'm a high school student who's learning how to code.
+- 🌱: Exploring various topics about web dev and web technology.
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/and249)
