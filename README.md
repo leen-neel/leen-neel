@@ -30,7 +30,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭: I'm a high school student who's learning how to code.
 - 🌱: Exploring various topics about web dev and web technology.
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anindo Neel Dutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/and249)
+- ✍️: [My blog](https://blog.and249.codes/)
+- 📫: [My socials](https://and249.codes/socials)
 
 ---
 
