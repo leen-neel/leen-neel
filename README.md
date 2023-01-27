@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <h2> I'm Neel! </h2>
+  <h2> I'm <a href="https://and249.codes/" target="_blank">Neel!</a> </h2>
   
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0CSLCA)
 
