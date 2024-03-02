@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <h2> I'm <a href="https://and249.codes/" target="_blank">Neel!</a> </h2>
+  <h2> I'm <a href="https://anindoneel.com/" target="_blank">Neel!</a> </h2>
   
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0CSLCA)
 
@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭: I'm a high school student who's learning how to code.
 - 🌱: Exploring various topics about web dev and web technology.
-- ✍️: [My blog](https://blog.and249.codes/)
+- ✍️: [My blog](https://anindoneel.com/blog)
 - 📫: [My socials](https://and249.codes/socials)
 
 ---
