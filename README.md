@@ -31,7 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭: I'm a high school student who's learning how to code.
 - 🌱: Exploring various topics about web dev and web technology.
 - ✍️: [My blog](https://anindoneel.com/blog)
-- 📫: [My socials](https://and249.codes/socials)
 
 ---
 
