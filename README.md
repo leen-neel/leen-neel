@@ -74,6 +74,12 @@ An AI-powered platform for generating beautiful API documentation from OpenAPI s
 
 **Tech:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, AI SDK
 
+### Zen Doc
+
+Zen Doc is an AI-powered documentation generator that transforms your codebase into a beautiful, searchable documentation website in minutes.
+
+Built with: TypeScript, Astro, Google Gemini, Lingo.dev
+
 ---
 
 ### 🌐 Open Source
@@ -86,20 +92,7 @@ I enjoy contributing to developer tooling and open source projects while learnin
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=leen-neel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  />
-
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leen-neel&layout=compact&theme=transparent&hide_border=true"
-  />
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=leen-neel&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=leen-neel&theme=dracula&hide_border=true"
   />
 </p>
 
